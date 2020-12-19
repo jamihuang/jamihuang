@@ -214,6 +214,14 @@ header .intro-text {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+.sportslinks{
+	Margin-bottom: 15px;
+	margin-right: 10px;
+	font-size: 20px;
+	color: rgba(197,77,170);
+	width: 300px;
+	text-decoration: underline;
+}
 #sports h4 {
 	color: #C54DAA;
 	text-transform: uppercase;
@@ -398,7 +406,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99c54daa', e
 	background: #F6F6F6;
 	margin-top: 10px;
 }
-.mySlides1, .mySlides2{
+.mySlides1, .mySlides2 {
 	display: none;
 }
 .slidebutton
@@ -440,6 +448,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99c54daa', e
 }
 #school .item p {
 	margin: 30px 0;
+}
+.projectwork{
+	font-size: 25px;
+	padding: 20px;
+	text-decoration: underline;
+	font-family: 'PT Serif', serif;
 }
 .owl-theme .owl-controls .owl-page span {
 	display: block;
